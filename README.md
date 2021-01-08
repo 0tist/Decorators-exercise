@@ -2,7 +2,7 @@
 
 Hey everyone!
 
-In order to better understand the functioning of libraries, it is essential to understand a few basic concepts of OOPS, one of them is $$\texttt{Decorators}$$.<br>
+In order to better understand the functioning of libraries, it is essential to understand a few basic concepts of OOPS, one of them is `Decorators}`.<br>
 I find myself contantly looking at libraries such as [PyTorch](https://pytorch.org) and [Fastai](https://www.fast.ai) to make use. of them in my projects.<br>
 I suggest the use of decorators to make your code productive, expandable, and easy to read and interact.<br>
 
